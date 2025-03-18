@@ -13,6 +13,7 @@ The purpose of this list is to allow you to prioritize and take the time to disc
 ## Book List
 
  - [**The Last Lecture**](the_last_lecture__randy_pausch.md) — Randy Pausch
+ - [**Principles**](principles__ray_dalio.md) — Ray Dalio
 
 <br/>
 
