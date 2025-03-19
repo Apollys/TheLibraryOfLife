@@ -1,4 +1,4 @@
-# Literary Gems: Books For Life
+# The Library of Life: Literary Gems
 
 A selection of the most insightful books I've read, covering a wide variety of topics.
 
@@ -12,9 +12,10 @@ The purpose of this list is to allow you to prioritize and take the time to disc
 
 ## Book List
 
+ - [**The Creative Act**](the_creative_act__rick_rubin.md) — Rick Rubin
  - [**The Last Lecture**](the_last_lecture__randy_pausch.md) — Randy Pausch
  - [**Principles**](principles__ray_dalio.md) — Ray Dalio
 
 <br/>
 
-> Note: the page numbers given for quoted passages don't necessarily match the book cover image shown at the top of the book's page. The cover image is generally whatever nice-looking image I could easily find online, and the page numbers come from whatever version of the book I happen to have read.
+> Note: the page numbers of quoted passages don't necessarily match the book version shown at the top of the book's page.
