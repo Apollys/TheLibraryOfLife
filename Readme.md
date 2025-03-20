@@ -21,6 +21,7 @@ The purpose of this list is to allow you to prioritize and take the time to disc
 <br/>
 
  - [**A Meditator's Guide to Buddhism**](a_meditators_guide_to_buddhism__cortland_dahl.md) — Cortland Dahl
+ - [**The Book of Five Rings**](book_of_five_rings__musashi.md) — Miyamoto Musashi
 
 <br/>
 

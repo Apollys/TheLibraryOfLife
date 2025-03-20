@@ -25,6 +25,7 @@ If you want to read just one passage from this book, start with the one from pag
 <br/>
 
 > When you no longer believe everything you think, you step out of thought and see clearly that the thinker is not who you are.
+>
 > [21]
 
 <br/>
