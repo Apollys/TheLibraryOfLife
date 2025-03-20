@@ -19,4 +19,8 @@ The purpose of this list is to allow you to prioritize and take the time to disc
 
 <br/>
 
-> Note: the page numbers of quoted passages don't necessarily match the book version shown at the top of the book's page.
+ - [**A Meditator's Guide to Buddhism**](a_meditators_guide_to_buddhism__cortland_dahl.md) — Cortland Dahl
+
+<br/>
+
+> Note: the page numbers of quoted passages don't necessarily match the book version of the image at the top of the book's page.

@@ -6,7 +6,7 @@ By Eckhart Tolle
 
 The wisdom of Eckhart Tolle has a unique character of the utmost profundity and abstractness, combined with exceptional preciseness and succinctness of language. His books are powerful, inspiring, calming, meditative, and certainly impossible to be a waste of time.
 
-This book would probably take around hour to read through cover to cover, if you just read it straight through. But you'll get far more out of it if you read it slowly, stopping to ponder, reflect, and even practice the ideas he puts forth.
+This book would probably only an hour to read through cover to cover, if you read it straight through. But you'll get far more out of it if you read it slowly, stopping to ponder, reflect, and even practice the ideas he puts forth.
 
 If you want to read just one passage from this book, start with the one from page 68 (about two-thirds of the way down this page). It may be the most striking upheval of "obvious truth" I have ever read.
 
