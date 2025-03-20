@@ -16,6 +16,7 @@ The purpose of this list is to allow you to prioritize and take the time to disc
  - [**Stillness Speaks**](stillness_speaks__eckhart_tolle.md) — Eckhart Tolle
  - [**The Last Lecture**](the_last_lecture__randy_pausch.md) — Randy Pausch
  - [**Principles**](principles__ray_dalio.md) — Ray Dalio
+ - [**Daring Greatly**](daring_greatly__brene_brown.md) — Brene Brown
 
 <br/>
 
