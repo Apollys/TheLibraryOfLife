@@ -138,4 +138,4 @@ If you're a parent, or soon-to-be, you'll also find some unexpectly sharp insigh
 
 <br/>
 
-Return to the [Book List](Readme.md).
+Return to the [Book List](Readme.md#book-list).

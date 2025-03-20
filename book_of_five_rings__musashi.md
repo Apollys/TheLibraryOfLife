@@ -110,4 +110,4 @@ If you are interested by the ideas of Miyamoto Musashi, I highly encourage you t
 
 <br/>
 
-Return to the [Book List](Readme.md).
+Return to the [Book List](Readme.md#book-list).

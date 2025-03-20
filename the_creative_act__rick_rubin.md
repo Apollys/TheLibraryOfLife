@@ -192,4 +192,4 @@ The task of passage selection has never been more challenging...
 
 <br/>
 
-Return to the [Book List](Readme.md).
+Return to the [Book List](Readme.md#book-list).

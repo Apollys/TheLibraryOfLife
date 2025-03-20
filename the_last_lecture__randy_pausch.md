@@ -72,4 +72,4 @@ If the words *computer science* make you feel hesitant, worry not: this book is 
 
 <br/>
 
-Return to the [Book List](Readme.md).
+Return to the [Book List](Readme.md#book-list).

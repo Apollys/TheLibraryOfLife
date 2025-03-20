@@ -152,4 +152,4 @@ If you want to read just one passage from this book, start with the one from pag
 
 <br/>
 
-Return to the [Book List](Readme.md).
+Return to the [Book List](Readme.md#book-list).
