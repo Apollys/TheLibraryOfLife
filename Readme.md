@@ -15,6 +15,7 @@ The purpose of this list is to allow you to prioritize and take the time to disc
  - [**The Creative Act**](the_creative_act__rick_rubin.md) — Rick Rubin
  - [**The Power of Now**](the_power_of_now.md) — Eckhart Tolle
  - [**Stillness Speaks**](stillness_speaks__eckhart_tolle.md) — Eckhart Tolle
+ - [**Think Like A Monk**](think_like_a_monk.md) — Jay Shetty
  - [**The Last Lecture**](the_last_lecture__randy_pausch.md) — Randy Pausch
  - [**Principles**](principles__ray_dalio.md) — Ray Dalio
  - [**Daring Greatly**](daring_greatly__brene_brown.md) — Brene Brown
@@ -24,6 +25,3 @@ The purpose of this list is to allow you to prioritize and take the time to disc
  - [**A Meditator's Guide to Buddhism**](a_meditators_guide_to_buddhism__cortland_dahl.md) — Cortland Dahl
  - [**The Book of Five Rings**](book_of_five_rings__musashi.md) — Miyamoto Musashi
 
-<br/>
-
-> Note: the page numbers of quoted passages don't necessarily match the book version of the image at the top of the book's page.
