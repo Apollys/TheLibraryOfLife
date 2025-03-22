@@ -28,7 +28,7 @@ The task of passage selection has never been more challenging...
 
 <br/>
 
-> The act of creation is an attempt to enter a mysterious realm. A longing to transcend. What we create allows us to share glimpses of an inner landscape, one that is beyong our understanding. Art is our portal to the unseen world.
+> The act of creation is an attempt to enter a mysterious realm. A longing to transcend. What we create allows us to share glimpses of an inner landscape, one that is beyond our understanding. Art is our portal to the unseen world.
 >
 > [31]
 
