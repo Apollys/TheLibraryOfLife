@@ -25,6 +25,7 @@ The purpose of this list is to allow you to prioritize and take the time to disc
 <br/>
 
  - [**A Meditator's Guide to Buddhism**](a_meditators_guide_to_buddhism.md) — Cortland Dahl
+ - [**How to Think More Effectively**](how_to_think_more_effectively.md) — The School of Life
  - [**The Book of Five Rings**](book_of_five_rings__musashi.md) — Miyamoto Musashi
  - [**The World's Religions**](the_worlds_religions.md) — Huston Smith
  - [**A Whole New Mind**](a_whole_new_mind.md) — Daniel H. Pink
