@@ -138,7 +138,7 @@ The task of passage selection has never been more challenging...
 >
 > [135]
 
-(I must here mention the wonderful book *Discipline Equals Freedom* by Jocko Willink.)
+(I must here mention the wonderful book [Discipline Equals Freedom](discipline_equals_freedom.md) by Jocko Willink.)
 
 <br/>
 
