@@ -2,7 +2,7 @@
 
 By Randy Pausch
 
-![Cover Image](the_last_lecture__randy_pausch.png)
+![Cover Image](the_last_lecture.png)
 
 Diagnosed with terminal pancreatic cancer, computer science professor Randy Pausch gives a last lecture — not on computer science, but on pursuing and really achieving one's dreams.
 
@@ -16,7 +16,7 @@ If the words *computer science* make you feel hesitant, worry not: this book is 
 >
 > Cancer doesn't make me unique. More than 37,000 Americans a year are diagnosed with pancreatic cancer alone.
 >
-> It came to me in a flash. My uniqueness, I realized, came in the specifics of all the dreams — from incredibly meaningful to decidecly quirky — that defined my forty-six years of life.
+> It came to me in a flash. My uniqueness, I realized, came in the specifics of all the dreams — from incredibly meaningful to decidedly quirky — that defined my forty-six years of life.
 >
 > [9]
 

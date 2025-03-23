@@ -2,7 +2,7 @@
 
 By Rick Rubin
 
-![Cover Image](the_creative_act__rick_rubin.png)
+![Cover Image](the_creative_act.png)
 
 Ostensibly a book about art, this may be one of the most wonderful guides to life I have ever read.
 
@@ -90,7 +90,7 @@ The task of passage selection has never been more challenging...
 
 <br/>
 
-> Every innovation risks becoming a rule. And innovcation risks becoming an end in itself.
+> Every innovation risks becoming a rule. And innovation risks becoming an end in itself.
 >
 > When we make a discovery that serves our work, it's not unusual to concretize this into a formula. On occasion, we decide this formula is who we are as an artist.
 >

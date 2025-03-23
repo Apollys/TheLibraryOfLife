@@ -2,17 +2,17 @@
 
 By Brene Brown
 
-![Cover Image](daring_greatly__brene_brown.png)
+![Cover Image](daring_greatly.png)
 
 Vulnerability is not weakness, it's strength. And it may be one of the most inspiring and connecting aspects of our humanity.
 
 But how do we cultivate the courage to be vulnerable? How do we avoid the fear, anxiety, and shame that we worry must accompany it? Brene Brown gives a passionate and practical set of answers to this question in *Daring Greatly*.
 
-If you're a parent, or soon-to-be, you'll also find some unexpectly sharp insights on parenting along the way.
+If you're a parent, or soon-to-be, you'll also find some unexpectedly sharp insights on parenting along the way.
 
 ### Sparks
 
-> When we spend our lives waiting until we're perfect or bulletproof before we walk into the arena, we ultimately sacrifice relationships and opportuniities that may not be recoverable, we squander our precious time, and we turn out backs on our gifts, those unique contributions that only we can make.
+> When we spend our lives waiting until we're perfect or bulletproof before we walk into the arena, we ultimately sacrifice relationships and opportunities that may not be recoverable, we squander our precious time, and we turn out backs on our gifts, those unique contributions that only we can make.
 >
 > [2]
 
@@ -36,7 +36,7 @@ If you're a parent, or soon-to-be, you'll also find some unexpectly sharp insigh
 
 <br/>
 
-> When our self-worth isn't on the line, we are far more willing to be courageous and risk sharing our raw talkents and gifts. Shame-resilient cultures nurture folks who are much more open to soliciting, accepting, and incorporating feedback.
+> When our self-worth isn't on the line, we are far more willing to be courageous and risk sharing our raw talents and gifts. Shame-resilient cultures nurture folks who are much more open to soliciting, accepting, and incorporating feedback.
 >
 > [64]
 
@@ -118,7 +118,7 @@ If you're a parent, or soon-to-be, you'll also find some unexpectly sharp insigh
 
 <br/>
 
-> *Belonging* is being somehwere you want to be, and they want you. *Fitting in* is being somehwer you really want to be, but they don't care one way or the other.
+> *Belonging* is being somewhere you want to be, and they want you. *Fitting in* is being somewhere you really want to be, but they don't care one way or the other.
 >
 > *Belonging* is being accepted for you. *Fitting in* is being accepted for being like everyone else.
 >

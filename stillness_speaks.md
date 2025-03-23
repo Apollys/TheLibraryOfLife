@@ -2,13 +2,13 @@
 
 By Eckhart Tolle
 
-![Cover Image](stillness_speaks__eckhart_tolle.png)
+![Cover Image](stillness_speaks.png)
 
 The wisdom of Eckhart Tolle has a unique character of the utmost profundity and abstractness, combined with exceptional preciseness and succinctness of language. His books are powerful, inspiring, calming, meditative, and certainly impossible to be a waste of time.
 
 This book would probably only an hour to read through cover to cover, if you read it straight through. But you'll get far more out of it if you read it slowly, stopping to ponder, reflect, and even practice the ideas he puts forth.
 
-If you want to read just one passage from this book, start with the one from page 68 (about two-thirds of the way down this page). It may be the most striking upheval of "obvious truth" I have ever read.
+If you want to read just one passage from this book, start with the one from page 68 (about two-thirds of the way down this page). It may be the most striking upheaval of "obvious truth" I have ever read.
 
 ### Sparks
 
@@ -42,7 +42,7 @@ If you want to read just one passage from this book, start with the one from pag
 
 <br/>
 
-> When you recognize that there is a voice in your head that pretends to be you and never stops speaking, you are awakening out of your unconscious indentification with the stream of thinking. When you notice that voice, you realize that who you are is not the voice — the thinker — but the one who is aware of it.
+> When you recognize that there is a voice in your head that pretends to be you and never stops speaking, you are awakening out of your unconscious identification with the stream of thinking. When you notice that voice, you realize that who you are is not the voice — the thinker — but the one who is aware of it.
 >
 > Knowing yourself as the awareness behind the voice is freedom.
 >

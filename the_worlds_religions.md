@@ -4,13 +4,13 @@ By Huston Smith
 
 ![Cover Image](the_worlds_religions.png)
 
-An introductory tour of Hinduism, Buddhism, Confuscianism, Daoism, Islam, Judaism, and Christianity.
+An introductory tour of Hinduism, Buddhism, Confucianism, Daoism, Islam, Judaism, and Christianity.
 
 This book is a wonderful way to see patterns across different religions and people. For example, Buddha and Jesus were strikingly similar in character, values, and the context of their enlightenments.
 
 At the same time, I must be honest: I learned a variety of interesting things from this book, but I learned much less about the world's religions than I would have expected from a book titled "The World's Religions." I still have almost no idea what the religious teachings of either Judaism or Islam are, even after reading their respective chapters twice each.
 
-In many places, the author spends a lot of time talking about the stories and histories of people, and relatively little time discussing the actual religion itself. Don't expect to come out of this book being highly knowledgable about the world's religions, but perhaps your interest will have been piqued sufficiently about a particular religion to go pick up a book dedicated specifically to that religion.
+In many places, the author spends a lot of time talking about the stories and histories of people, and relatively little time discussing the actual religion itself. Don't expect to come out of this book being highly knowledgeable about the world's religions, but perhaps your interest will have been piqued sufficiently about a particular religion to go pick up a book dedicated specifically to that religion.
 
 ### Sparks
 
@@ -112,7 +112,7 @@ These words immediately conjure to mind the ideas in [Dopamine Nation](dopamine_
 
 <br/>
 
-> When a wild elephant is to be tamed and trained, the best way to begin is by yoking it to one that has already been through the process. By contact, the wild one comes to see that the condition it is being led toward is not wholy incompatible with being an elephant — that what is expected of it does not contradict its nature categorically and heralds a condition that, though startlingly different, is viable.
+> When a wild elephant is to be tamed and trained, the best way to begin is by yoking it to one that has already been through the process. By contact, the wild one comes to see that the condition it is being led toward is not wholly incompatible with being an elephant — that what is expected of it does not contradict its nature categorically and heralds a condition that, though startlingly different, is viable.
 >
 > [105]
 
@@ -140,7 +140,7 @@ Do you ever feel yourself giving solutions that are only verbal? You can speak t
 
 <br/>
 
-#### Confuscianism
+#### Confucianism
 
 > [Of Confucius...]
 >

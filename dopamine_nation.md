@@ -6,11 +6,11 @@ By Anna Lembke
 
 <br/>
 
-> This book is about pleasure. It's also about pain. Most important, it's about the relationship between pleasure and pain, and how understanding that relatinoship has become essential for a life well lived.
+> This book is about pleasure. It's also about pain. Most important, it's about the relationship between pleasure and pain, and how understanding that relationship has become essential for a life well lived.
 >
 > Why?
 >
-> Because we've transformed the world from a place of scarcity to a place of overwhelming abundace. The smartphone is the modern-day hypodermic needle, delivering digital dopamine 24/7 for a wired generation.
+> Because we've transformed the world from a place of scarcity to a place of overwhelming abundance. The smartphone is the modern-day hypodermic needle, delivering digital dopamine 24/7 for a wired generation.
 >
 > [1]
 
@@ -20,7 +20,7 @@ By Anna Lembke
 
 ### Sparks
 
-> Boredom is not just boring. It can also be terrifying. It forces us to come face-to-face with bigger questions of meaning and purpose. But boredom is also an opportunity for discovery and invention. It creates the space necessary for a new thought to form, without which we're endlessly reacting to stimuli around us, rather than allowing ourselve to be within our lived experience.
+> Boredom is not just boring. It can also be terrifying. It forces us to come face-to-face with bigger questions of meaning and purpose. But boredom is also an opportunity for discovery and invention. It creates the space necessary for a new thought to form, without which we're endlessly reacting to stimuli around us, rather than allowing ourselves to be within our lived experience.
 >
 > [41]
 
@@ -126,7 +126,7 @@ I think it comes down to giving them more trust, ownership over their work, and 
 >
 > [221]
 
-"Brick walls aren't there to keep us out, they're there to gives a chance to show how badly we want something." — Randy Pausch, [The Last Lecture](the_last_lecture__randy_pausch.md)
+"Brick walls aren't there to keep us out, they're there to gives a chance to show how badly we want something." — Randy Pausch, [The Last Lecture](the_last_lecture.md)
 
 <br/>
 

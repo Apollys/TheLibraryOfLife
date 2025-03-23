@@ -12,18 +12,18 @@ The purpose of this list is to allow you to prioritize and take the time to disc
 
 ## Book List
 
- - [**The Creative Act**](the_creative_act__rick_rubin.md) — Rick Rubin
+ - [**The Creative Act**](the_creative_act.md) — Rick Rubin
  - [**The Power of Now**](the_power_of_now.md) — Eckhart Tolle
- - [**Stillness Speaks**](stillness_speaks__eckhart_tolle.md) — Eckhart Tolle
+ - [**Stillness Speaks**](stillness_speaks.md) — Eckhart Tolle
  - [**Think Like A Monk**](think_like_a_monk.md) — Jay Shetty
  - [**Discipline Equals Freedom**](discipline_equals_freedom.md) — Jocko Willink
  - [**Principles**](principles__ray_dalio.md) — Ray Dalio
  - [**Dopamine Nation**](dopamine_nation.md) — Anna Lembke
- - [**The Last Lecture**](the_last_lecture__randy_pausch.md) — Randy Pausch
- - [**Daring Greatly**](daring_greatly__brene_brown.md) — Brene Brown
+ - [**The Last Lecture**](the_last_lecture.md) — Randy Pausch
+ - [**Daring Greatly**](daring_greatly.md) — Brene Brown
 
 <br/>
 
- - [**A Meditator's Guide to Buddhism**](a_meditators_guide_to_buddhism__cortland_dahl.md) — Cortland Dahl
+ - [**A Meditator's Guide to Buddhism**](a_meditators_guide_to_buddhism.md) — Cortland Dahl
  - [**The Book of Five Rings**](book_of_five_rings__musashi.md) — Miyamoto Musashi
  - [**The World's Religions**](the_worlds_religions.md) — Huston Smith

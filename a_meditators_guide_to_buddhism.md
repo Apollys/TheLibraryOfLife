@@ -2,7 +2,7 @@
 
 By Cortland Dahl
 
-![Cover Image](a_meditators_guide_to_buddhism__cortland_dahl.png)
+![Cover Image](a_meditators_guide_to_buddhism.png)
 
 A wonderfully accessible and practical introduction to the concepts and practices of Buddhism for the modern age.
 
@@ -12,7 +12,7 @@ I have read several books on Buddhism. Most are rather esoteric, mystical, and f
 
 > Renunciation forms such an important part of Siddhartha's story — he had to turn away from the familiar in order to make space for something new in his life. Indeed, renunciation is as much about turning toward something new as it is an act of letting go.
 >
-> 14
+> [14]
 
 <br/>
 
@@ -88,7 +88,7 @@ I have read several books on Buddhism. Most are rather esoteric, mystical, and f
 
 <br/>
 
-> For the first time, I saw that pain and suffering are not the same thing. With that shift, the ongoing experiences of pain and aversion felt small and insignificant, like nothing mroe than little cloluds passing through the vast expanse of the sky.
+> For the first time, I saw that pain and suffering are not the same thing. With that shift, the ongoing experiences of pain and aversion felt small and insignificant, like nothing more than little clouds passing through the vast expanse of the sky.
 >
 > [155]
 
@@ -128,7 +128,7 @@ A relevant phrase I have heard elsewhere: "Tolerate happiness."
 
 <br/>
 
-> The sky is simply the open space that can accommodate everything. The openness of the sky is so ordinary, and so pervasive, we might miss it, but without taht openness, nothing else would be possible. There would be no room for all the colorful weather patterns that come and go.
+> The sky is simply the open space that can accommodate everything. The openness of the sky is so ordinary, and so pervasive, we might miss it, but without that openness, nothing else would be possible. There would be no room for all the colorful weather patterns that come and go.
 >
 > The same is true for us. We get so caught up in all the weather patterns of life, we completely miss the basic openness of our own being.
 >

@@ -10,7 +10,7 @@ The wisdom of Eckhart Tolle has a unique character of the utmost profundity and 
 
 ### Sparks
 
-> Not being able to stop thinking is a dreadful affliciton, but we don't realize this because almost everybody is suffering from it, so it is considered normal.
+> Not being able to stop thinking is a dreadful affliction, but we don't realize this because almost everybody is suffering from it, so it is considered normal.
 >
 > [12]
 

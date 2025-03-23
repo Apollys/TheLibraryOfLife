@@ -28,7 +28,7 @@ From the book's own introduction:
 
 > Try This: Where did your values come from?
 >
-> It can be hard to perceive the effect these casual influences have on us. Values are abstract, elusive, and the world we live in constantly pushes blatant and subliminial suggestions as to what we should want, how we should live, and how we form our ideas of who we are.
+> It can be hard to perceive the effect these casual influences have on us. Values are abstract, elusive, and the world we live in constantly pushes blatant and subliminal suggestions as to what we should want, how we should live, and how we form our ideas of who we are.
 >
 > Write down some of the values that shape your life. Next to each, write the origin. Put a checkmark next to each value that you truly share.
 >
@@ -42,7 +42,7 @@ From the book's own introduction:
 
 <br/>
 
-> No matter what you *think* your values are, your actions tell the real story. What we do with our spare time shows waht we value. For instance, you might put spending time with your family at the top of your list of values, but if you spend all your free time playing golf, your actions don't match your values, and you need to do some self-examination.
+> No matter what you *think* your values are, your actions tell the real story. What we do with our spare time shows what we value. For instance, you might put spending time with your family at the top of your list of values, but if you spend all your free time playing golf, your actions don't match your values, and you need to do some self-examination.
 >
 > [12]
 
@@ -88,7 +88,7 @@ From the book's own introduction:
 
 > Try this: Reverse Envy
 >
-> Make a list of five people you care about, but also feel competitive with. Come up with at least one reason that you're envious of each one: something they've acheived, something they're better at, something that's gone well for them.
+> Make a list of five people you care about, but also feel competitive with. Come up with at least one reason that you're envious of each one: something they've achieved, something they're better at, something that's gone well for them.
 >
 > Did that achievement actually take anything away from you?
 >
@@ -100,7 +100,7 @@ This is a real mindset-changer. Try this now, even just for one person. I'm not 
 
 <br/>
 
-> Forgiveness actually conserves energy. Forgiveness eases stress, because we no longer recycle the angry thoughts, both conscious and subconsious, that stressed us out in the first place.
+> Forgiveness actually conserves energy. Forgiveness eases stress, because we no longer recycle the angry thoughts, both conscious and subconscious, that stressed us out in the first place.
 >
 > [41]
 
@@ -382,7 +382,7 @@ Replace your wishes with genuine goals. Change "I wish..." to "I will..."
 >
 > They all refused. "It's not very nice." One pointed out that it was normal in her head, but completely different when she spoke it.
 >
-> Treat yourself witht he same love and respect you want to show to others.
+> Treat yourself with the same love and respect you want to show to others.
 >
 > [161]
 
@@ -414,7 +414,7 @@ Replace your wishes with genuine goals. Change "I wish..." to "I will..."
 
 #### Ego
 
-> Reflect on the you who emergtes when nobody else is around, no one to impress, no one with something to offer you. That is a glimpse into who you truly are.
+> Reflect on the you who emerges when nobody else is around, no one to impress, no one with something to offer you. That is a glimpse into who you truly are.
 >
 > "You are who you are when no one is watching."
 >
@@ -546,7 +546,7 @@ Replace your wishes with genuine goals. Change "I wish..." to "I will..."
 
 <br/>
 
-> Many of us are so addicted to re-creating the same experiences that we don't make space for new ones. What you were actaully doing at the start of your relationship was creating *new* memories with energy and openness. Love is kept alive by creating more new memories — by continuing to learn and grow together.
+> Many of us are so addicted to re-creating the same experiences that we don't make space for new ones. What you were actually doing at the start of your relationship was creating *new* memories with energy and openness. Love is kept alive by creating more new memories — by continuing to learn and grow together.
 
 <br/>
 
@@ -588,7 +588,7 @@ Replace your wishes with genuine goals. Change "I wish..." to "I will..."
 
 <br/>
 
-> Don't wait until you have enough time and moeny to serve. You will never have enough.
+> Don't wait until you have enough time and money to serve. You will never have enough.
 >
 > There are three simple modes to describe our relationship with money and material wealth. [...] The third is service — I want to give what I have, and I want more in order to give more.
 >

@@ -14,7 +14,7 @@ I think I'll just let the writing speak for itself for this one.
 
 <br/>
 
-> I have found it helpful to think of my life as if it were a game in which each problem I face is a puzzle I need to solve. By solving the puzzle, I get a gem in the form of a principle that helps me avoid the same sort of problem in the future. Collecting these gems continually improvevs my decision making, so I am able to ascend to higher and higher levels of play in which teh game gets harder and the stakes become ever greater.
+> I have found it helpful to think of my life as if it were a game in which each problem I face is a puzzle I need to solve. By solving the puzzle, I get a gem in the form of a principle that helps me avoid the same sort of problem in the future. Collecting these gems continually improves my decision making, so I am able to ascend to higher and higher levels of play in which teh game gets harder and the stakes become ever greater.
 >
 > [133]
 
@@ -24,7 +24,7 @@ I think I'll just let the writing speak for itself for this one.
 >
 > 2. Don't worry about looking good — worry instead about achieving your goals.
 >
-> 3. Don't overwieght first-order [immediate] consequences relative to second- and third-order [long-term] ones.
+> 3. Don't overweight first-order [immediate] consequences relative to second- and third-order [long-term] ones.
 >
 > 4. Don't let pain stand in the way of progress.
 >
@@ -36,11 +36,11 @@ I think I'll just let the writing speak for itself for this one.
 
 > 1. Have clear goals.
 >
-> 2. Identify and don't tolerate the problems taht stand in the way of your achieving those goals.
+> 2. Identify and don't tolerate the problems that stand in the way of your achieving those goals.
 >
 > 3. Accurately diagnose the problems to get at their root causes. [Don't just band-aid symptoms; fix root causes.]
 >
-> 4. Design plans taht will get you around them.
+> 4. Design plans that will get you around them.
 >
 > 5. Do what's necessary to push these designs through to results.
 >
@@ -72,7 +72,7 @@ I think I'll just let the writing speak for itself for this one.
 
 <br/>
 
-> Closed-minded poeple focus much more on being understood than on understanding others.
+> Closed-minded people focus much more on being understood than on understanding others.
 >
 > Open-minded people always feel compelled to see things through others' eyes.
 >
@@ -108,7 +108,7 @@ I think I'll just let the writing speak for itself for this one.
 
 <br/>
 
-> Never say anything about someone that you wouldnl't say to them directly and don't try people without accusing them to their faces.
+> Never say anything about someone that you wouldn't say to them directly and don't try people without accusing them to their faces.
 >
 > [327]
 
@@ -140,7 +140,7 @@ I think I'll just let the writing speak for itself for this one.
 
 <br/>
 
-> Don't pay as much attention to people's conclusions as to the rasoning that led them to their conclusions.
+> Don't pay as much attention to people's conclusions as to the reasoning that led them to their conclusions.
 >
 > [376]
 
