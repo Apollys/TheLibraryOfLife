@@ -12,6 +12,10 @@ The purpose of this list is to allow you to prioritize and take the time to disc
 
 ## Book List
 
+ - [**Breath**](breath.md) — James Nestor
+
+<br/>
+
  - [**The Creative Act**](the_creative_act.md) — Rick Rubin
  - [**The Power of Now**](the_power_of_now.md) — Eckhart Tolle
  - [**Stillness Speaks**](stillness_speaks.md) — Eckhart Tolle
