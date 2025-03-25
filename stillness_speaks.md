@@ -2,7 +2,7 @@
 
 By Eckhart Tolle
 
-![Cover Image](stillness_speaks.png)
+![Cover Image](images/stillness_speaks.png)
 
 The wisdom of Eckhart Tolle has a unique character of the utmost profundity and abstractness, combined with exceptional preciseness and succinctness of language. His books are powerful, inspiring, calming, meditative, and certainly impossible to be a waste of time.
 

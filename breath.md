@@ -2,7 +2,7 @@
 
 By James Nestor
 
-![Cover Image](breath.png)
+![Cover Image](images/breath.png)
 
 Breathing is an automatic process, but it's not a simple one, and if you haven't carefully thought about and practiced *how* you breathe, you're probably doing it wrong.
 

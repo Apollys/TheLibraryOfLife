@@ -2,7 +2,7 @@
 
 By Jocko Willink
 
-![Cover Image](discipline_equals_freedom.png)
+![Cover Image](images/discipline_equals_freedom.png)
 
 Never have I read a book with so much **Get Up And GO** power as this. This is a book that, while reading it in the middle of the night about to go to sleep, makes you want to jump up out of bed and go run in the cold dark night outside. I actually did that once.
 

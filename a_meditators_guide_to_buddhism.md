@@ -2,7 +2,7 @@
 
 By Cortland Dahl
 
-![Cover Image](a_meditators_guide_to_buddhism.png)
+![Cover Image](images/a_meditators_guide_to_buddhism.png)
 
 A wonderfully accessible and practical introduction to the concepts and practices of Buddhism for the modern age.
 

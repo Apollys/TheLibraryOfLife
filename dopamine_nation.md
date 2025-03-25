@@ -2,7 +2,7 @@
 
 By Anna Lembke
 
-![Cover Image](dopamine_nation.png)
+![Cover Image](images/dopamine_nation.png)
 
 <br/>
 

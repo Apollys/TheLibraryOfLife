@@ -2,7 +2,7 @@
 
 By Jay Shetty
 
-![Cover Image](think_like_a_monk.png)
+![Cover Image](images/think_like_a_monk.png)
 
 From the book's own introduction:
 

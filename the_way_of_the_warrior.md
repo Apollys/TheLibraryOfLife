@@ -2,7 +2,7 @@
 
 By Erwin Raphael McManus
 
-![Cover Image](the_way_of_the_warrior.png)
+![Cover Image](images/the_way_of_the_warrior.png)
 
 I actually bought this book just because of the title, with no idea what it was about. It turned out to be very different from what I expected — and delightfully so, full of interesting and insightful wisdom.
 

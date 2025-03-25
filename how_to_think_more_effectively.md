@@ -2,7 +2,7 @@
 
 By The School of Life
 
-![Cover Image](how_to_think_more_effectively.png)
+![Cover Image](images/how_to_think_more_effectively.png)
 
 A short pocketbook packed with guidance about how to more effectively make our way through our lives. Though the title may suggest a primary focus on logic and rationality, this book is far more all-encompassing than that.
 
@@ -38,7 +38,7 @@ The lesson I would take from this: Do something *different* from what you usuall
 >
 > [24]
 
-![](marcel_proust_manuscript.png)
+![](images/marcel_proust_manuscript.png)
 
 <br/>
 

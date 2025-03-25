@@ -4,7 +4,7 @@ By Miyamoto Musashi
 
 Translated by Stephen F. Kaufman
 
-![Cover Image](book_of_five_rings__musashi.png)
+![Cover Image](images/book_of_five_rings__musashi.png)
 
 Miyamoto Musashi was a Japanese samurai who won over 60 duels to the death and then retired. Even for a Japanese samurai, this number is outrageous — the next highest number is half this. This book is a unique opportunity to be exposed directly to the thoughts and words of someone of such unique accomplishment.
 

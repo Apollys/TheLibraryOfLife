@@ -2,11 +2,11 @@
 
 By Hector Garcia and and Francesc Miralles
 
-![Cover Image](ikigai.png)
+![Cover Image](images/ikigai.png)
 
 #### What is Ikigai?
 
-![Ikigai Diagram](ikigai_diagram.png)
+![Ikigai Diagram](images/ikigai_diagram.png)
 
 This book carefully investigates the lives of those who live in the regions that have the most centenarians (people who live to be 100 years old) in the world. The authors share engaging interviews and stories from interacting firsthand with these people. They then look for patterns that can be transformed into guidelines for our own lives.
 

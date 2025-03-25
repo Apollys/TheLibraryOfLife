@@ -2,7 +2,7 @@
 
 By Eckhart Tolle
 
-![Cover Image](the_power_of_now.png)
+![Cover Image](images/the_power_of_now.png)
 
 The wisdom of Eckhart Tolle has a unique character of the utmost profundity and abstractness, combined with exceptional preciseness and succinctness of language. His books are powerful, inspiring, calming, meditative, and certainly impossible to be a waste of time.
 

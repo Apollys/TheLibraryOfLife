@@ -2,7 +2,7 @@
 
 By Rick Rubin
 
-![Cover Image](the_creative_act.png)
+![Cover Image](images/the_creative_act.png)
 
 Ostensibly a book about art, this may be one of the most wonderful guides to life I have ever read.
 

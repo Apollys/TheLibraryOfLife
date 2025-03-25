@@ -2,7 +2,7 @@
 
 By Daniel H. Pink
 
-![Cover Image](a_whole_new_mind.png)
+![Cover Image](images/a_whole_new_mind.png)
 
 > The last few decades have belonged to a certain kind of person with a certain kind of mind — computer programmers who could crank code, lawyers who could craft contracts, MBAs who could crunch numbers. But the keys to the kingdom are changing hands. The future belongs to a very different kind of person with a very different kind of mind — creators and empathizers, pattern recognizers, and meaning makers.
 >

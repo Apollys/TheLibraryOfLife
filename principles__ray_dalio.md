@@ -2,7 +2,7 @@
 
 By Ray Dalio
 
-![Cover Image](principles__ray_dalio.png)
+![Cover Image](images/principles__ray_dalio.png)
 
 I think I'll just let the writing speak for itself for this one.
 

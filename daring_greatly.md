@@ -2,7 +2,7 @@
 
 By Brene Brown
 
-![Cover Image](daring_greatly.png)
+![Cover Image](images/daring_greatly.png)
 
 Vulnerability is not weakness, it's strength. And it may be one of the most inspiring and connecting aspects of our humanity.
 

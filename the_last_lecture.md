@@ -2,7 +2,7 @@
 
 By Randy Pausch
 
-![Cover Image](the_last_lecture.png)
+![Cover Image](images/the_last_lecture.png)
 
 Diagnosed with terminal pancreatic cancer, computer science professor Randy Pausch gives a last lecture — not on computer science, but on pursuing and really achieving one's dreams.
 

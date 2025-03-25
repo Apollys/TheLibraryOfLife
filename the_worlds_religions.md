@@ -2,7 +2,7 @@
 
 By Huston Smith
 
-![Cover Image](the_worlds_religions.png)
+![Cover Image](images/the_worlds_religions.png)
 
 An introductory tour of Hinduism, Buddhism, Confucianism, Daoism, Islam, Judaism, and Christianity.
 
