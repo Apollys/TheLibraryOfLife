@@ -41,6 +41,7 @@ Not quite absolutely top-tier books, but still books that I felt were definitely
 
 These books have very high quality insights and ideas, but end up in this category because either: I felt the author spent too much time sidetracked from the core value of the book, or I felt the book was very *interesting* but not hugely *impactful* to how I actually live my life or see the world.
 
+ - [**How to Know a Person**](how_to_know_a_person.md) — David Brooks
  - [**How to Think More Effectively**](how_to_think_more_effectively.md) — The School of Life
  - [**The Way of the Warrior**](the_way_of_the_warrior.md) — Erwin Raphael McManus
  - [**The World's Religions**](the_worlds_religions.md) — Huston Smith
