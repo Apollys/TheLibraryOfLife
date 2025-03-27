@@ -26,6 +26,7 @@ Top-tier books containing highly valuable and important information that I think
  - [**Principles**](principles__ray_dalio.md) — Ray Dalio
  - [**Dopamine Nation**](dopamine_nation.md) — Anna Lembke
  - [**The Last Lecture**](the_last_lecture.md) — Randy Pausch
+ - [**Beyond Order**](beyond_order.md) — Jordan B. Peterson
  - [**Daring Greatly**](daring_greatly.md) — Brene Brown
 
 #### Niche Gems
