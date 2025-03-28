@@ -7,16 +7,16 @@ My intention with this list is twofold:
 1. To provide a list of recommendations for extremely high-quality books containing valuable information that I think are very likely to benefit anyone who reads them.
 2. To provide particularly insightful or interesting passages from each book that may spark your interest, so that you can efficiently decide and prioritize which books would be most valuable for you to read.
 
-## Book List
+## Books
 
-#### Fundamental Pillars of Health
+### Fundamental Pillars of Health
 
  - [**Breath**](breath.md) — James Nestor
  - [**Ikigai**](ikigai.md) — Hector Garcia and and Francesc Miralles
 
-#### Universal Gems
+### Universal Gems
 
-Top-tier books containing highly valuable and important information that I think would would benefit everyone.
+*Top-tier books containing highly valuable and important information that I think would would benefit everyone.*
 
  - [**The Creative Act**](the_creative_act.md) — Rick Rubin
  - [**The Power of Now**](the_power_of_now.md) — Eckhart Tolle
@@ -30,18 +30,16 @@ Top-tier books containing highly valuable and important information that I think
  - [**The Road to Character**](the_road_to_character) — David Brooks
  - [**Daring Greatly**](daring_greatly.md) — Brene Brown
 
-#### Niche Gems
+### Niche Gems
 
-Top-tier books, but not on a universal topic. Absolutely recommended if you are interested in the subject.
+*Top-tier books, but not on a universal topic. Absolutely recommended if you are interested in the subject.*
 
  - [**A Meditator's Guide to Buddhism**](a_meditators_guide_to_buddhism.md) — Cortland Dahl
  - [**The Book of Five Rings**](book_of_five_rings__musashi.md) — Miyamoto Musashi
 
-#### Rough-Cut Gems
+### Rough-Cut Gems
 
-Not quite absolutely top-tier books, but still books that I felt were definitely worth reading.
-
-These books have very high quality insights and ideas, but end up in this category because either: I felt the author spent too much time sidetracked from the core value of the book, or I felt the book was very *interesting* but not hugely *impactful* to how I actually live my life or see the world.
+*Not quite absolutely top-tier books, but still books that I felt were definitely worth reading.*
 
  - [**How to Know a Person**](how_to_know_a_person.md) — David Brooks
  - [**How to Think More Effectively**](how_to_think_more_effectively.md) — The School of Life
@@ -49,3 +47,5 @@ These books have very high quality insights and ideas, but end up in this catego
  - [**The Way of the Warrior**](the_way_of_the_warrior.md) — Erwin Raphael McManus
  - [**The World's Religions**](the_worlds_religions.md) — Huston Smith
  - [**A Whole New Mind**](a_whole_new_mind.md) — Daniel H. Pink
+
+*(These books have very high quality insights and ideas, but end up in this category because either: I felt the author spent too much time sidetracked from the core value of the book, or I felt the book was very *interesting* but not hugely *impactful* to how I actually live my life or see the world.)*
