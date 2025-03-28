@@ -27,6 +27,7 @@ Top-tier books containing highly valuable and important information that I think
  - [**Dopamine Nation**](dopamine_nation.md) — Anna Lembke
  - [**The Last Lecture**](the_last_lecture.md) — Randy Pausch
  - [**Beyond Order**](beyond_order.md) — Jordan B. Peterson
+ - [**The Road to Character**](the_road_to_character) — David Brooks
  - [**Daring Greatly**](daring_greatly.md) — Brene Brown
 
 #### Niche Gems
