@@ -38,6 +38,7 @@ My intention with this list is twofold:
 
  - [**A Meditator's Guide to Buddhism**](a_meditators_guide_to_buddhism.md) — Cortland Dahl
  - [**The Book of Five Rings**](book_of_five_rings__musashi.md) — Miyamoto Musashi
+ - [**Gita 3**](gita_3.md) — S.B. Keshava Swami
 
 ### Rough-Cut Gems
 
