@@ -47,6 +47,7 @@ My intention with this list is twofold:
  - [**How to Know a Person**](how_to_know_a_person.md) — David Brooks
  - [**How to Think More Effectively**](how_to_think_more_effectively.md) — The School of Life
  - [**The Art of Loving**](the_art_of_loving.md) — Erich Fromm
+ - [**The Gifts of Imperfection**](the_gifts_of_imperfection.md) — Brene Brown
  - [**The Way of the Warrior**](the_way_of_the_warrior.md) — Erwin Raphael McManus
  - [**The World's Religions**](the_worlds_religions.md) — Huston Smith
  - [**A Whole New Mind**](a_whole_new_mind.md) — Daniel H. Pink
