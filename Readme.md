@@ -27,6 +27,7 @@ My intention with this list is twofold:
  - [**Discipline Equals Freedom**](discipline_equals_freedom.md) — Jocko Willink
  - [**Principles**](principles__ray_dalio.md) — Ray Dalio
  - [**Dopamine Nation**](dopamine_nation.md) — Anna Lembke
+ - [**How to Change Your Mind**](how_to_change_your_mind.md) — Michael Pollan
  - [**The Last Lecture**](the_last_lecture.md) — Randy Pausch
  - [**Beyond Order**](beyond_order.md) — Jordan B. Peterson
  - [**The Road to Character**](the_road_to_character) — David Brooks
