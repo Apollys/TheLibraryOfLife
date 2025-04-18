@@ -14,7 +14,7 @@ I think I'll just let the writing speak for itself for this one.
 
 <br/>
 
-> I have found it helpful to think of my life as if it were a game in which each problem I face is a puzzle I need to solve. By solving the puzzle, I get a gem in the form of a principle that helps me avoid the same sort of problem in the future. Collecting these gems continually improves my decision making, so I am able to ascend to higher and higher levels of play in which teh game gets harder and the stakes become ever greater.
+> I have found it helpful to think of my life as if it were a game in which each problem I face is a puzzle I need to solve. By solving the puzzle, I get a gem in the form of a principle that helps me avoid the same sort of problem in the future. Collecting these gems continually improves my decision making, so I am able to ascend to higher and higher levels of play in which the game gets harder and the stakes become ever greater.
 >
 > [133]
 
