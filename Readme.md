@@ -14,6 +14,7 @@ My intention with this list is twofold:
  - [**Breath**](breath.md) — James Nestor
  - [**Why We Sleep**](why_we_sleep.md) — Matthew Walker
  - [**Outlive**](outlive.md) — Peter Attia
+ - [**Attached**](attached.md) — Amir Levine and Rachel S.F. Heller
  - [**Ikigai**](ikigai.md) — Hector Garcia and and Francesc Miralles
 
 ### Universal Gems
